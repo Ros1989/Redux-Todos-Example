@@ -1,8 +1,8 @@
 {
-  "name": "homework-template",
+  "name": "Redux-Todos-Example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ros1989.github.io/homework-template",
+  "homepage": "https://Ros1989.github.io/Redux-Todos-Example",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -11,7 +11,9 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
     "react-scripts": "4.0.1",
+    "redux": "^4.0.5",
     "styled-components": "^5.2.1",
     "uuid": "^8.3.2",
     "web-vitals": "^0.2.4"
